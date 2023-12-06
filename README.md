@@ -8,7 +8,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mysql,php)
 
-<h1>Want to learn 🧠</h1>
+## >Want to learn 🧠
 
 ![My Skills](https://skillicons.dev/icons?i=react,typescript,cpp,cs,nodejs,kotlin)
 ## Stats
